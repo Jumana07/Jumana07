@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jumana07
 - 👀 I’m interested in ...front end development 
-- 🌱 I’m currently learning ...HTML5,CSS3, JavaScript from meta in Coursera
+- 🌱 I’m currently working on projects with ...HTML5,CSS3, JavaScript and Reactjs
 - 💞️ I’m looking to collaborate on ...Small frontend projects and part time frontend online jobs
 - 📫 How to reach me ... jumanahaseen07@gmail.com
 
